@@ -26,7 +26,6 @@ If you are using MAC OS or Linux, then these operating systems tend to have Git 
 
 ![image](https://user-images.githubusercontent.com/99980305/182088191-8d613443-0a33-4d72-827a-67ad58beaa3c.png)
 
-
 ### Basic Git and Linux commands
 
 Specific Git commands are formatted in the following way, ```git (insert command here)```, and in this section I will detail a few basic Git commands. You will also need a know a few Linux commands to navigate your local host's files.
@@ -82,3 +81,10 @@ Finally, to ensure that your local Git command line knows about the generated ke
 Once you have downloaded content, you can make changes to the files and then use ```git status``` to see any changes. Next, use ```git add``` and ```git commit``` to track and save those changes. Finally, use ```git push -u origin main``` to push to the main branch on your remote repository. 
 
 If you have started on a local host, first you need to initialise the repository into a git repository using ```git init```. Then once you are ready to upload onto GitHub, you need to make a reference to the remote repository that you wish to push to. This is done with ```git remote add origin (paste SSH or HTTPS)```. You can now complete this process with '''git push -u origin main'''.
+
+## Summary:
+
+The following diagram demonstrates a summary of the interaction between Git on your localhost and Github:
+
+![git_diagram](https://user-images.githubusercontent.com/99980305/182149272-5e880803-e755-48ba-a644-63ac2fb87525.png)
+
