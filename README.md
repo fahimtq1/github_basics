@@ -1,10 +1,6 @@
 # Git and GitHub basics
 
-Check out my [original Git and GitHub basics tutorial](https://github.com/fahimtq1/github_basics)
-
-You can also see my [video tutorial](https://testingcircle-my.sharepoint.com/:v:/g/personal/fqurashi_spartaglobal_com/ESVqrtVkHzZLnZ2j3sXa3ncBNPMjiM_5adSBBEUSZzPfqw)
-
-This tutorial will demonstrate a few extra commands in comparison to the first version. 
+You can see my [video tutorial](https://testingcircle-my.sharepoint.com/:v:/g/personal/fqurashi_spartaglobal_com/ESVqrtVkHzZLnZ2j3sXa3ncBNPMjiM_5adSBBEUSZzPfqw
 
 ## What is GitHub?
 
